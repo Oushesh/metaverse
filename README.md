@@ -4,3 +4,7 @@
    to live in or will be willing to do so in the future.
 
 ##  Folder structure.
+    
+
+## Instructions and how does it look like:
+   ![decentraland_001](readme-images/decentraland_001.png)
